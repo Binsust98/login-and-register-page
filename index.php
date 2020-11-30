@@ -23,8 +23,8 @@
                                 <td>Password</td>
                                 <td><input type="password" class="form-control"></td>
                             </tr>
-                             <tr> 
-                                 <td></td>
+
+                            <td></td>
                                  <tr></tr>
                                  <td></td>
                                  <td></td>
@@ -41,6 +41,8 @@
                                  <td></td>
                                  <tr></tr>
                                  <td></td>
+                             <tr> 
+                                 
                                 <td><button class="btn btn-info">LOGIN</button></td>
                             </tr>
     
